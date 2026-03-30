@@ -8,7 +8,7 @@ Sistema de Devoluciones: Restaurar la disponibilidad de los libros mediante su i
 
 Buscador por ISBN: Localización rápida de ejemplares en la lista de la biblioteca.
 
-Validación de Datos: * Control de duplicados (no permite dos libros con el mismo ISBN).
+Validación de Datos:  Control de duplicados (no permite dos libros con el mismo ISBN).
 
 Manejo de excepciones (InputMismatchException) para evitar cierres inesperados al introducir datos no numéricos.
 
